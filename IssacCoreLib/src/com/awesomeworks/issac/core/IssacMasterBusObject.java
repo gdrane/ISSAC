@@ -1,7 +1,6 @@
 package com.awesomeworks.issac.core;
 
 import org.alljoyn.bus.BusAttachment;
-import org.alljoyn.bus.BusListener;
 import org.alljoyn.bus.BusObject;
 import org.alljoyn.bus.Mutable;
 import org.alljoyn.bus.SessionOpts;
